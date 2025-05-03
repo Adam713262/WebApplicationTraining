@@ -1,4 +1,4 @@
-# WebApplicationTraining
+# Basic Web App
 
 A basic full-stack web application that includes a React frontend (Vite) and a .NET 8 Web API backend, featuring live data visualisation using charts.
 
